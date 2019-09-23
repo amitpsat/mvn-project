@@ -73,5 +73,16 @@ public class CalculatorTest {
 	}
 	
 		
+	@Test
+	public void testSubstract() {
+		
+		Calculator calc=new Calculator();
+		int result =calc.substract(5, 4);
+		
+		assertEquals(1, result);
+		
+		
+	}
+	
 
 }
