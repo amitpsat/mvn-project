@@ -79,7 +79,20 @@ public class CalculatorTest {
 		Calculator calc=new Calculator();
 		int result =calc.substract(5, 4);
 		
+		
 		assertEquals(1, result);
+		
+		
+	}
+	
+	@Test
+	public void testDivide() {
+		
+		Calculator calc=new Calculator();
+		int result =calc.divide(8, 4);
+		
+		
+		assertEquals(2, result);
 		
 		
 	}
