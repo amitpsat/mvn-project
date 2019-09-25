@@ -15,7 +15,6 @@ public class App
 
    while(true){
 	
-	ArrayList<> list=new ArrayList<int>();
 }
 
     }
