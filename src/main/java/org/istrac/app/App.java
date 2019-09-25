@@ -16,7 +16,7 @@ public class App
 
 private class abcd{
 
-private static abcd=13;
+private static int abcd=13;
 
 public static int xvyz(){
 return 1;
