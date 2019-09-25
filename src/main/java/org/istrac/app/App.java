@@ -12,7 +12,12 @@ public class App
     {
         System.out.println( "Hello World!" );
 	int a, b,c ;
+
+   while(true){
 	
+	ArrayList<> list=new ArrayList<int>();
+}
+
     }
 
 
