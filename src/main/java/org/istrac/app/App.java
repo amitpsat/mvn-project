@@ -11,14 +11,16 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+	int a, b,c ;
+	
     }
 
 
 private class abcd{
 
-private static int abcd=13;
+private  int xxxx=13;
 
-public static int xvyz(){
+public  int xvyz(){
 return 1;
 }
 
